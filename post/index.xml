@@ -54,9 +54,9 @@
       <link>/post/wolf/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       <guid>/post/wolf/</guid>
-      <description>&lt;h4 id=&#34;accouting-for-misidentification-in-dynamic-occupancy-models&#34;&gt;Accouting for misidentification in dynamic occupancy models.&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;accounting-for-misidentification-in-dynamic-occupancy-models&#34;&gt;Accounting for misidentification in dynamic occupancy models.&lt;/h4&gt;
 &lt;p&gt;For my master degree, I did an internship with &lt;a href=&#34;https://twitter.com/LouvrierJulie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julie Louvrier&lt;/a&gt; and &lt;a href=&#34;https://oliviergimenez.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Olivier Gimenez&lt;/a&gt; at the &lt;a href=&#34;https://www.cefe.cnrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEFE - CNRS&lt;/a&gt;, in Montpellier, France.&lt;/p&gt;
-&lt;p&gt;This project was a part of Julie&amp;rsquo;s PhD that aimed at mapping large carnivores distribution. While wolves monitoring in France is based on opportunistic data, an important proportion of collected data are classified as &amp;ldquo;uncertain&amp;rdquo;. We extended the dynamic occupancy model of &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.02874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julie&amp;rsquo;s paper&lt;/a&gt;, to account for uncertain data in the estimation of wolf recolonization.&lt;/p&gt;
+&lt;p&gt;This project was a part of Julie&amp;rsquo;s PhD that aimed at mapping large carnivores distribution. Wolf monitoring in France is based on opportunistic data. Then, an important proportion of collected data are classified as &amp;ldquo;uncertain&amp;rdquo;. Uncertain data can be false-positive detections where wolf are misidentified. We extended the dynamic occupancy model of &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.02874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julie&amp;rsquo;s paper&lt;/a&gt;, to account for uncertain data in the estimation of wolf recolonization.&lt;/p&gt;
 &lt;p&gt;See details about this project reading my &lt;a href=&#34;M2.pdf&#34;&gt;Master degree report&lt;/a&gt; To have more details, do not hesitate to contact me directly.&lt;/p&gt;
 
 
