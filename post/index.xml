@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Valentin Lauret</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://valentinlauret.github.io/post/</link>
+      <atom:link href="https://valentinlauret.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Valentin Lauret, 2022</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu7eabc23bc9187618b899456524b5182f_14725_512x512_fill_lanczos_center_2.png</url>
+      <url>https://valentinlauret.github.io/images/icon_hu7eabc23bc9187618b899456524b5182f_14725_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/post/</link>
+      <link>https://valentinlauret.github.io/post/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/post/firstbar/</link>
+      <link>https://valentinlauret.github.io/post/firstbar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/firstbar/</guid>
+      <guid>https://valentinlauret.github.io/post/firstbar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring bottlenose dolphins in the French Mediterranean Sea</title>
-      <link>/post/mpa/</link>
+      <link>https://valentinlauret.github.io/post/mpa/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/mpa/</guid>
+      <guid>https://valentinlauret.github.io/post/mpa/</guid>
       <description>&lt;p&gt;From Septembre 2018 to October 2021 I conducted my Phd entitled &lt;strong&gt;Ecological monitoring in Marine Protected Areas of the French Mediterranean Sea, an interdisciplinary approach about bottlenose dolphin&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;In the French Mediterranean, a network of more than thirty Marine Protected Areas (MPA) is operating along the coastline. These MPA collect ecological data and work for the protection of marine biodiversity, each at its own scale and with its own means. For many issues related to the protection of marine biodiversity, the relevant ecological scale is that of the Mediterranean coastline embracing the entire MPA network around the same ecological context. This is the case for mobile species such as marine mammals.&lt;/p&gt;
 &lt;p&gt;In this context, acquiring ecological knowledge at large spatial scales from data collected by a multitude of actors raises two major issues. First, an operational and policy challenge that consists in involving and coordinating institutions and stakeholders that collect ecological data. Second, a methodological challenge that lies in the ability to propose statistical tools that can produce robust ecological indicators from several monitoring protocols. During this thesis, I wanted to jointly study both of these two issues, operational and methodological, by setting up an interdisciplinary approach mobilizing social sciences and statistical ecology. The analysis is focused on the ecological monitoring of bottlenose dolphins (&lt;em&gt;Tursiops truncatus&lt;/em&gt;) in the French Mediterranean Sea.&lt;/p&gt;
@@ -33,30 +33,30 @@
 My work will have allowed i) to propose statistical tools relevant to the current context of the ecological monitoring of bottlenose dolphins in the French Mediterranean Sea, and ii) to highlight and describe the operational and political issues of coordinating ecological monitoring between the different MPA of the French Mediterranean Sea. Overall, my thesis is an illustration of the relevancy of the dialogue between social sciences and statistical ecology to produce ecologically effective and socially relevant conservation tools.&lt;/p&gt;
 &lt;h2 id=&#34;large-scale-monitoring-of-bottlenose-dolphins-is-challenging&#34;&gt;Large-scale monitoring of bottlenose dolphins is challenging&lt;/h2&gt;
 &lt;justify&gt;
-&lt;p&gt;While many MPA routinely collect data on bottlenose dolphins, the diversity and heterogeneity in monitoring protocols (e.g., aerial line-transects, on-board photo-identification, opportunistic detection) make data integration challenging. In my PhD, we developed integrated occupancy models to estimate species distribution &lt;a href=&#34;Ecology.pdf&#34;&gt;in this paper&lt;/a&gt;. Besides, we combined distance sampling and spatial capture-recapture models to estimate population abundance and density &lt;a href=&#34;preprinAbundance.pdf&#34;&gt;in this paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While many MPA routinely collect data on bottlenose dolphins, the diversity and heterogeneity in monitoring protocols (e.g., aerial line-transects, on-board photo-identification, opportunistic detection) make data integration challenging. In my PhD, we developed integrated occupancy models to estimate species distribution &lt;a href=&#34;https://valentinlauret.github.io/pubs/ecology2021.pdf&#34;&gt;in this paper&lt;/a&gt;. Besides, we combined distance sampling and spatial capture-recapture models to estimate population abundance and density &lt;a href=&#34;https://valentinlauret.github.io/pubs/ancon2022.pdf&#34;&gt;in this paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understanding conservation conflicts in Spanish farmland areas</title>
-      <link>/post/spain/</link>
+      <link>https://valentinlauret.github.io/post/spain/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/post/spain/</guid>
+      <guid>https://valentinlauret.github.io/post/spain/</guid>
       <description>&lt;h2 id=&#34;rodent-outbreaks-in-northern-spain&#34;&gt;Rodent outbreaks in Northern Spain&lt;/h2&gt;
 &lt;p&gt;During Autumn 2017, I did an internship with Beatriz Arroyo, François Mougeot, and Miguel Delibes-Mateos at &lt;a href=&#34;https://www.irec.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IREC&lt;/a&gt; (CSIC - UCLM) in Ciudad Real, Spain.&lt;/p&gt;
 &lt;p&gt;We used Q-methodology, a quali-quantitative social science method, to describe shared opinions about Common vole (&lt;em&gt;Microtus arvalis&lt;/em&gt;) outbreaks in Northern Spain. During this project, I conducted social interviews with farmers, hunters, conservationists, and members of the local government to idenitfy the coexisting viewpoints about this intense conservation conflict.&lt;/p&gt;
-&lt;p&gt;More on this &lt;a href=&#34;https://link.springer.com/article/10.1007/s13280-019-01256-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article in AMBIO journal&lt;/a&gt;. To have more details, do not hesitate to contact me directly.&lt;/p&gt;
+&lt;p&gt;More on &lt;a href=&#34;https://valentinlauret.github.io/pubs/rodent2019.pdf&#34;&gt;this article&lt;/a&gt;. To have more details, do not hesitate to contact me directly.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mapping wolf recolonization with uncertain data</title>
-      <link>/post/wolf/</link>
+      <link>https://valentinlauret.github.io/post/wolf/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <guid>/post/wolf/</guid>
+      <guid>https://valentinlauret.github.io/post/wolf/</guid>
       <description>&lt;h4 id=&#34;accounting-for-misidentification-in-dynamic-occupancy-models&#34;&gt;Accounting for misidentification in dynamic occupancy models.&lt;/h4&gt;
 &lt;p&gt;For my master degree, I did an internship with &lt;a href=&#34;https://twitter.com/LouvrierJulie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julie Louvrier&lt;/a&gt; and &lt;a href=&#34;https://oliviergimenez.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Olivier Gimenez&lt;/a&gt; at the &lt;a href=&#34;https://www.cefe.cnrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEFE - CNRS&lt;/a&gt;, in Montpellier, France.&lt;/p&gt;
-&lt;p&gt;This project was a part of Julie&amp;rsquo;s PhD that aimed at mapping large carnivores distribution. Wolf monitoring in France is based on opportunistic data. Then, an important proportion of collected data are classified as &amp;ldquo;uncertain&amp;rdquo;. Uncertain data can be false-positive detections where wolf are misidentified. We extended the dynamic occupancy model of &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.02874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julie&amp;rsquo;s paper&lt;/a&gt;, to account for uncertain data in the estimation of wolf recolonization.&lt;/p&gt;
+&lt;p&gt;This project was a part of Julie&amp;rsquo;s PhD that aimed at mapping large carnivores distribution. Wolf monitoring in France is based on opportunistic data. Then, an important proportion of collected data are classified as &amp;ldquo;uncertain&amp;rdquo;. Uncertain data can be false-positive detections where wolf are misidentified. We extended the dynamic occupancy model of &lt;a href=&#34;https://valentinlauret.github.io/pubs/ecog2017.pdf&#34;&gt;Julie&amp;rsquo;s paper&lt;/a&gt;, to account for uncertain data in the estimation of wolf recolonization.&lt;/p&gt;
 &lt;p&gt;See details about this project reading my &lt;a href=&#34;M2.pdf&#34;&gt;Master degree report&lt;/a&gt; To have more details, do not hesitate to contact me directly.&lt;/p&gt;
 
 
@@ -84,10 +84,10 @@ My work will have allowed i) to propose statistical tools relevant to the curren
 &lt;figure id=&#34;figure-extended-dynamic-occupancy-model-accouting-for-misidentification&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/wolf/hmm_hu3f82ddced1014c25773664451881eb76_97191_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Extended dynamic occupancy model accouting for misidentification&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://valentinlauret.github.io/post/wolf/hmm_hu3f82ddced1014c25773664451881eb76_97191_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Extended dynamic occupancy model accouting for misidentification&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/wolf/hmm_hu3f82ddced1014c25773664451881eb76_97191_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1117&#34; height=&#34;436&#34;&gt;
+  &lt;img data-src=&#34;https://valentinlauret.github.io/post/wolf/hmm_hu3f82ddced1014c25773664451881eb76_97191_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1117&#34; height=&#34;436&#34;&gt;
 &lt;/a&gt;
 
 
