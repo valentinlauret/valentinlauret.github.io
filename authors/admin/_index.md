@@ -43,11 +43,13 @@ title: Valentin Lauret
 #- Principal Investigators
 ---
 
-I'm a Postdoc working for integrating spatial data into population modeling at the Center for Evolutionary and Functional Ecology ([CEFE - CNRS](https://www.cefe.cnrs.fr/en/)) supervised by [Aurélien Besnard](https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard) as a member of [Human-Animal Interaction group](https://human-animal-interactions.github.io/). I'm onboard the Migralion project, an ambituous research program funded by the [French Biodiversity Office](https://ofb.gouv.fr/en) aiming at studying birds & bats migration in the Gulf of Lion (Northwestern Mediterranean Sea). I'm in charge of developing population models integrating telemetry, count, and ringing data.
+I'm a *Juan de la Cierva 2022* postdoc at the Institute for Game and Wildlife Research ([IREC - CSIC - UCLM](https://www.irec.es/en/)) working with [Beatriz Arroyo](https://irec.es/en/commitment/detail/brook-lopez-beatriz/) and [Miguel Delibes-Mateos](https://mdelibesmateos.wixsite.com/mdelibesmateos). I'm ongoing various projects that aimed at investigating the human dimensions of social conflicts associated with wildlife. In particular, I'm interested in the construction of ecological knowledge and its legitimacy for biodiversity decision-making, adopting a reflexive posture about the quantification of biodiversity through statistical models.
 
 Overall, my research focuses on applied biodiversity conservation, with a particular interest in interdisciplinary approaches using statistical ecology and social sciences to work with wildlife managers and stakeholders to inform public policies.
 
-Please, do not hesitate to [contact me](mailto:valentin.lauret@ens-lyon.fr) for any question or information ! :left_arrow: :postbox:
+{{< icon name="arrow-alt-circle-right" pack="fas" >}} You can download my [CV](/pubs/CV.pdf)
+
+Please, do not hesitate to [contact me](mailto:valentin.lauret@uclm.es) for any question or information ! :left_arrow: :postbox:
 
 
 _All photos credits are mine_
