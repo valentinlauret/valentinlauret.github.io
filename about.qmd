@@ -1,0 +1,44 @@
+---
+title: | 
+ <font color="#1D3557" size=30>**Valentin Lauret**</font>
+image: img/profhike.jpg
+lightbox: true
+mainfont: Helvetica
+fontcolor: "#457b9d"
+linkcolor: "#E63946"
+fontsize: 1em
+margin-left: 2pt
+margin-right: 2pt
+body-footer: "Coucou"
+about:
+  id: hero-heading
+  template: jolla
+  image-width: 25em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/valentinlauret
+    - icon: newspaper
+      text: Scholar
+      href: https://scholar.google.com/citations?user=hbi_zlMAAAAJ&hl=en
+    - icon: envelope
+      text: Mail
+      href: mailto:valentin.lauret@gmail.com
+    - text: "Languages: 🇫🇷🇬🇧🇪🇸"
+---
+
+:::{#hero-heading} 
+:::
+
+<center>
+I'm a postdoc at [Forests and Societies lab in CIRAD](https://ur-forets-societes.cirad.fr/en), Montpellier (France). My current work aims at integrating local knowledge, quantitative social data, and ecological data to understand the spatial dynamics of hunting in tropical forests. This is part of the [SWM project in Gabon](https://www.fao.org/in-action/swm-programme/where-we-work/gabon/en) funded by the FAO and EU.
+
+Overall, my research focuses on applied biodiversity conservation, with a particular interest in interdisciplinary approaches using statistical ecology and social sciences to work with stakeholders and to inform public policies. In particular, I'm interested in the construction of ecological knowledge and its legitimacy for biodiversity decision-making, adopting a reflexive posture about development and use of statistical models. I'm ongoing various projects that aimed at investigating the human dimensions of social conflicts associated with wildlife. 
+
+You can have a look at my [CV](doc/CV.pdf)
+
+Please, do not hesitate to [contact me](mailto:valentin.lauret@gmail.com) for any question or information ! 📮
+
+All photos credits are mine</center>
+
